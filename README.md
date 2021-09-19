@@ -1,9 +1,9 @@
-مائیکروسافٹ فلائٹ سیمولیٹر ٢٠٢٠ ایس ۔ ڈی ۔ کے کتابچہ | SDK Manual for Microsoft Flight Simulator 2020
+<div align="right"><h1>مائیکروسافٹ فلائٹ سیمولیٹر ٢٠٢٠ ایس ۔ ڈی ۔ کے کتابچہ</h1></div> 
+<h1>SDK Manual for Microsoft Flight Simulator 2020</h1>
+<strong>موجودہ ورژن | Current Version</strong>
 <br />
-موجودہ ورژن | Current Version: https://github.com/kolachistudios/msfs-sdk-manual/blob/main/MSFS-SDK-v011.pdf 
- 
-<u>
-ورژن کی تاریخ | Version History
-</u>
+<i>https://github.com/kolachistudios/msfs-sdk-manual/blob/main/MSFS-SDK-v011.pdf</i>
+<br /><br />
+<strong>ورژن کی تاریخ | Version History</strong>
 <br />
-0.0.1 - Sept 14, 2021
+<i><a href="https://github.com/kolachistudios/msfs-sdk-manual/blob/main/MSFS-SDK-v011.pdf">0.0.1</a> (بنیادی ڈھانچہ | Basic Structure) - Sept 14, 2021</i>
