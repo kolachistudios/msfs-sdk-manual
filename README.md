@@ -6,5 +6,5 @@
 <br /><br />
 <strong>ورژن کی تاریخ | Version History</strong>
 <br />
-<i><a href="https://github.com/kolachistudios/msfs-sdk-manual/blob/main/MSFS-SDK-v002.pdf">0.0.2</a> (ابتدائی عبارت | Initial Text) - Dec 3, 2021</i>
+<i><a href="https://github.com/kolachistudios/msfs-sdk-manual/blob/main/MSFS-SDK-v002.pdf">0.0.2</a> (ابتدائی عبارت | Initial Text) - Dec 3, 2021</i><br />
 <i><a href="https://github.com/kolachistudios/msfs-sdk-manual/blob/main/MSFS-SDK-v011.pdf">0.0.1</a> (بنیادی ڈھانچہ | Basic Structure) - Sept 14, 2021</i>
